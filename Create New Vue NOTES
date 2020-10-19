@@ -1,0 +1,33 @@
+Tools :
+- Node JS
+- VS Code
+
+VS Code Extension (My Version) :
+- Live Sass Compiler
+- Live Server
+- Prettier
+- Vetur
+
+How to Create :
+- Pastikan Sudah Menginstal Node JS
+- Install Vue JS terlebih dahulu dengan buka terminal lalu masukan -> npm install vue
+- Pastikan sudah memilih root folder untuk folder vue yang akan kita buat
+- buka terminal di folder untuk vue projek
+- tuliskan di terminal -> vue create NamaProjectNya <- Notes : Ubah NamaProjectNya menjadi nama projek kalian
+- jika ingin instan bisa pilih defaul yang versi 2
+- Jika manual, klik enter
+- pilih vuex dan router dengan cara spasi dibagian tulisan, bukan enter, jika sudah terpilih baru klik enter
+- pilih yang version 2.x
+- ketik Y untuk history mode
+- pilih yg eslint + Prettier
+- pilih lint on save
+- pilih in package.JSON
+- save jika ingin membuat vue dengan pengaturan ini (bebas)
+
+setelah selesai
+- tuliskan cd NamaProjectNya
+- jalankan dengan npm run Server
+
+
+jika ingin menjalankan project latihan yg kemaren, di folder project ini jalankan terminal dan tuliskan 'npm run install', 
+setelah selesai, jalankan 'npm run serve', atau baca README.MD
